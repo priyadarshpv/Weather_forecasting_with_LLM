@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+streamlit
+requests
+python-dotenv
+plotly
+=======
+streamlit
+requests
+python-dotenv
+plotly
+>>>>>>> origin/main
+openai
