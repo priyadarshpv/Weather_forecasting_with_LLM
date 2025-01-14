@@ -120,6 +120,8 @@ plotly
 
 ![Screenshot 2025-01-14 171135](https://github.com/user-attachments/assets/7b53c18d-a889-4ebf-8fc7-bcc17d047bdc)
 
+![Screenshot 2025-01-14 171155](https://github.com/user-attachments/assets/1cc3ea9b-fa6a-4d85-9134-1b8482cddd3c)
+![Screenshot 2025-01-14 171206](https://github.com/user-attachments/assets/744d1238-4ad9-454e-8ece-db1ab0260562)
 
 ---
 
@@ -158,11 +160,6 @@ Contributions are welcome! To contribute:
 ## Contact
 
 For queries or issues, feel free to reach out at:  
-**Email**: your-email@example.com  
-**GitHub**: [your-username](https://github.com/your-username)
-```
+**Email**:priyadarshdinesh@gmail.com.com  
 
-### Customization Notes
-1. Replace placeholders like `your_openai_api_key`, `your-weather_api_key`, and `your-username` with actual values.
-2. Add screenshots under the "Screenshots" section for better visualization.
-3. Provide a link to your deployed app under the "Contact" or "Usage" section.
+
