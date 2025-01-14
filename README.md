@@ -1,5 +1,3 @@
-Here’s a detailed and complete `README.md` for your project:
-
 
 # Weather Forecasting App Using LLM
 
@@ -106,29 +104,6 @@ plotly
 
 ---
 
-### Deployment on Streamlit Cloud
-
-1. **Push your code** to a GitHub repository (private or public).
-
-2. **Deploy to Streamlit Cloud**:
-   - Go to [Streamlit Cloud](https://streamlit.io/cloud) and log in.
-   - Create a new app and connect it to your GitHub repository.
-
-3. **Add secrets** in Streamlit Cloud:
-   - Go to the app's **Secrets** tab and add:
-     ```toml
-     [openai_api]
-     key = "your_openai_api_key"
-
-     [weather_api]
-     key = "your_weather_api_key"
-     ```
-
-4. **Automatic Deployment**:  
-   Streamlit Cloud will redeploy your app with the new secrets.
-
----
-
 ## How to Use the App
 
 1. **Enter a city name** in the input field on the sidebar.
@@ -143,7 +118,8 @@ plotly
 
 ## Screenshots
 
-*Include screenshots of your app interface showing key features.*
+![Screenshot 2025-01-14 171135](https://github.com/user-attachments/assets/7b53c18d-a889-4ebf-8fc7-bcc17d047bdc)
+
 
 ---
 
