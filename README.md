@@ -155,7 +155,7 @@ Contributions are welcome! To contribute:
 3. Commit your changes and push the branch.
 4. Open a pull request.
 
----
+-----
 
 ## Contact
 
